@@ -4,6 +4,7 @@ public class TenByTenRowSum {
     public static void main(String[] args) {
         int[][]numbers;TenByTenArray.generateArray(10);
 
+
     }
 
     public static void printRowSums(int[][] arr){
